@@ -1,0 +1,92 @@
+{
+  "logo-restaurante-x.jpg": {
+    "mime": "image/jpeg"
+  },
+  "logo-restaurante-x.svg": {
+    "mime": "image/svg+xml"
+  },
+  "burger.svg": {
+    "mime": "image/svg+xml"
+  },
+  "burger.jpg": {
+    "mime": "image/jpeg"
+  },
+  "fries.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "doodash.jpg": {
+    "mime": "image/jpeg"
+  },
+  "postmates.jpg": {
+    "mime": "image/jpeg"
+  },
+  "rappi.jpg": {
+    "mime": "image/jpeg"
+  },
+  "ubereats.jpg": {
+    "mime": "image/jpeg"
+  },
+  "doordash.svg": {
+    "mime": "image/svg+xml"
+  },
+  "postmates.svg": {
+    "mime": "image/svg+xml"
+  },
+  "rappi.svg": {
+    "mime": "image/svg+xml"
+  },
+  "ubereats.svg": {
+    "mime": "image/svg+xml"
+  },
+  "about3.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "first-burger.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "john-carter.png": {
+    "mime": "image/png"
+  },
+  "andy-smith.png": {
+    "mime": "image/png"
+  },
+  "sophie-moore.png": {
+    "mime": "image/png"
+  },
+  "care-n-craft.svg": {
+    "mime": "image/svg+xml"
+  },
+  "customer-first.svg": {
+    "mime": "image/svg+xml"
+  },
+  "flavour.svg": {
+    "mime": "image/svg+xml"
+  },
+  "love-and-passion.svg": {
+    "mime": "image/svg+xml"
+  },
+  "quality.svg": {
+    "mime": "image/svg+xml"
+  },
+  "teamwork.svg": {
+    "mime": "image/svg+xml"
+  },
+  "fries1.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "burger1.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "cola.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "fries2.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "hotdog.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "star.svg": {
+    "mime": "image/svg+xml"
+  }
+}
